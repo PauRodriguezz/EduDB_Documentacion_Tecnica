@@ -16,9 +16,9 @@ Documentacion_Tecnica/
 │
 │ ├── Modulo_01_Red_Procesos.pdf
 │ ├── Modulo_02_Red_Semantica.pdf
-│ ├── Modulo_03_Red_Frames_Difusos.pdf
+│ ├── Modulo_03_Red_Logica.pdf
 │ ├── Modulo_04_Neo4j_BaseConocimiento.pdf
-│ ├── Módulo_5_IntegraciónGenerativa(Ollama + LangChain + Router).pdf
+│ ├── Módulo_5_IntegraciónGenerativa.pdf
 │ ├── Modulo_06_API_Asistente.pdf
 │ └── README.md ← este archivo
 ```
