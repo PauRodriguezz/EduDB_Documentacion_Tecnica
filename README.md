@@ -14,13 +14,12 @@ La documentación está organizada en **módulos independientes**, cada uno con 
 ```text
 Documentacion_Tecnica/
 │
-│ ├── Modulo_01_Red_Procesos.md
-│ ├── Modulo_02_Red_Semantica.md
-│ ├── Modulo_03_Red_Frames_Difusos.md
-│ ├── Modulo_04_Neo4j_BaseConocimiento.md
-│ ├── Módulo_5_IntegraciónGenerativa(Ollama + LangChain + Router).md
-│ ├── Modulo_06_API_Asistente.md
-│ ├── Modulo_07_FlujoEvaluaciónGuiadaDeEsquemas.md
+│ ├── Modulo_01_Red_Procesos.pdf
+│ ├── Modulo_02_Red_Semantica.pdf
+│ ├── Modulo_03_Red_Frames_Difusos.pdf
+│ ├── Modulo_04_Neo4j_BaseConocimiento.pdf
+│ ├── Módulo_5_IntegraciónGenerativa(Ollama + LangChain + Router).pdf
+│ ├── Modulo_06_API_Asistente.pdf
 │ └── README.md ← este archivo
 ```
 ## 🧩 **Plantilla General Utilizada**
