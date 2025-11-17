@@ -1,0 +1,1 @@
+📘 Ficha Técnica — Módulo 1: Red de Procesos del Sistema Experto
